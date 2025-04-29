@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Victor Bethencourt Barrera!
 
-💻 **Desarrollador de Software** | 🚀 Apasionado por la tecnología, la arquitectura de software y la nube  
+💻 **Desarrollador de Software** |  Apasionado por la tecnología, la arquitectura de software y la nube  
 
 ---
 
