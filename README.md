@@ -1,62 +1,53 @@
-# 👋 ¡Hola, soy Victor Bethencourt Barrera!
+# 👋 ¡Hola! Soy Víctor Bethencourt Barrera
 
-💻 **Desarrollador de Software** |  Apasionado por la tecnología, la arquitectura de software y la nube  
-
----
-
-## 🚀 Sobre mí  
-Soy un desarrollador de software especializado en el desarrollo web y backend, con experiencia en la creación de aplicaciones escalables, robustas y eficientes. Me encanta aprender nuevas tecnologías, optimizar el rendimiento de las aplicaciones y trabajar en la nube.  
-
-### 🛠 **Especialidades:**  
-
-#### 💻 **Frontend**  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</p>
-
-#### 🔙 **Backend**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-</p>
-
-#### 🛢 **Bases de Datos**  
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-</p>
-
-#### ⚙️ **DevOps & Cloud**  
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-📌 Siempre en busca de mejorar mis habilidades y compartir conocimientos con la comunidad.  
+💻 **Desarrollador Fullstack** | Especializado en aplicaciones web escalables y arquitectura backend  
+🚀 Apasionado por la tecnología, la arquitectura de software y la nube
 
 ---
 
-## 📈 GitHub Stats  
+## ⚡ Sobre mí
+
+Desarrollador de software con experiencia en proyectos web modernos, tanto en frontend como backend. He trabajado con tecnologías como **Java, Spring Boot, React, Django y Next.js**, aplicando buenas prácticas de desarrollo, integración continua y despliegue en la nube (AWS). Me motiva seguir aprendiendo, construir soluciones eficientes y colaborar en equipos dinámicos.
+
+---
+
+## 💼 Tech Stack
+
+### 💻 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🔙 Backend  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🛢️ Bases de datos  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### ⚙️ DevOps & Cloud  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victorbb2699&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorbb2699&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Victorbb2699&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorbb2699&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📫 Conéctate conmigo  
-<p align="left">
-  <a href="https://www.linkedin.com/in/victor-bethencourt-barrera-ba243630a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vbetbar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 📫 Contacto
 
-🌐 **Portafolio:** _[En proceso...]_  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-bethencourt-barrera-ba243630a/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbetbar@gmail.com)  
+🌐 **Portafolio**: [https://vbetbar-portfolio.netlify.app](https://vbetbar-portfolio.netlify.app)
 
-✨ _Siempre abierto a nuevas oportunidades y colaboraciones interesantes._ 🚀  
+---
+
+✨ _Abierto a colaborar en proyectos interesantes y oportunidades profesionales._  
